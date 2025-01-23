@@ -27,6 +27,7 @@ button {
   font-size: var(--m);
   border-radius: calc(0.7 * var(--m));
   padding: calc(0.5 * var(--m)) calc(1 * var(--m));
+  margin: calc(1 * var(--m));
   display: flex;
   justify-content: center;
   cursor: pointer;
